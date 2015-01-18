@@ -12,5 +12,13 @@ h1 {
   font-family: 'AvenirNext-Heavy';
   color: rgb(27, 177, 207);
   text-align: center;
+  line-height: 120px;
   margin: 0;
+}
+
+p {
+  font-family: 'AvenirNext-Heavy';
+  color: rgb(90, 90, 90);
+  text-align: center;
+  margin: 0; 
 }
