@@ -1,22 +1,16 @@
-html {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #009DCD), color-stop(100%, #00CED3));
-  background: -webkit-linear-gradient(top center, #009DCD, #00CED3);
-  background: -moz-linear-gradient(top center, #009DCD, #00CED3);
-  background: -o-linear-gradient(top center, #009DCD, #00CED3);
-  background: linear-gradient(top center, #009DCD, #00CED3);
-  min-height: 100%;
+body {
+  background-color: rgb(241, 241, 241);
 }
 
-p {
+img {
+  display: block;
+  margin: 5em auto 0;
+}
+
+h1 {
   font-size: 6.6em;
   font-family: 'AvenirNext-Heavy';
-  color: white;
-  padding: 10px;
-  /*font-family: 'Oswald', sans-serif;*/
-  /*text-transform: uppercase;*/
-}
-
-em {
-  font-style: normal;
-  color: yellow;
+  color: rgb(27, 177, 207);
+  text-align: center;
+  margin: 0;
 }
