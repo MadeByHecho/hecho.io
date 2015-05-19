@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(241, 241, 241);
+}
+
+img {
+  display: block;
+  margin: 5em auto 0;
+}
+
+h1 {
+  font-size: 6.6em;
+  font-family: 'AvenirNext-Heavy';
+  color: rgb(27, 177, 207);
+  text-align: center;
+  line-height: 120px;
+  margin: 0;
+}
+
+p {
+  font-family: 'AvenirNext-Bold';
+  color: rgb(90, 90, 90);
+  text-align: center;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+
+}
+
+h2 {
+  font-family: 'AvenirNext-Heavy';
+  color: rgb(90, 90, 90);
+  text-align: center;
+}
+
+footer p {
+  color: rgb(200, 200, 200);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 12px;
+}
