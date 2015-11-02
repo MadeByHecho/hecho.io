@@ -45,6 +45,12 @@ div#pitch-text p {
   font-size: 1.25em;
 }
 
+img#app-store {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 /*  Mail Chimp */
 
 #mc_embed_signup {
