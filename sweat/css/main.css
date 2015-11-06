@@ -45,6 +45,13 @@ div#pitch-text p {
   font-size: 1.25em;
 }
 
+img#marketing-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 50%;
+}
+
 img#app-store {
   margin-left: auto;
   margin-right: auto;
