@@ -58,6 +58,13 @@ img#app-store {
   display: block;
 }
 
+img#press-kit {
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 /*  Mail Chimp */
 
 #mc_embed_signup {
