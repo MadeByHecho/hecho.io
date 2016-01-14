@@ -55,6 +55,28 @@ section#hecho {
   padding-bottom: 0px;
 }
 
+/* Daphne */
+
+section#daphne {
+  background-color: rgb(99, 82, 163);;
+  width: 100%;
+  height: 300px;
+  margin-bottom: 0em;
+}
+
+section#daphne h2 {
+  color: rgb(241, 241, 241);
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+section#daphne p {
+  color: rgb(241, 241, 241);
+  text-align: center;
+  width: 40%;
+}
+
 /* Vacay */
 
 section#vacay {
